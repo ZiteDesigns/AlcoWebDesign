@@ -1,11 +1,11 @@
-### CustomEmbedTabbedLinksReadMe
+# CustomEmbedTabbedLinksReadMe
 
-Tabbed Links for Homepage to zip across the website
+## Tabbed Links for Homepage to zip across the website
 
-# Changes:
+### Changes:
 - Added Plain links to youtube that dont have text associated with them 
 - Changed default selected to middle
 
-# Plans:
+### Plans:
 - Add Support for upcoming events to display proactivly on the website from CustomCalendarIntergrations.js
 - Make more Configurations easier
